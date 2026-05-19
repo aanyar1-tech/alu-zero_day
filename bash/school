@@ -1,1 +1,2 @@
 bash test/intest
+echo "School"
