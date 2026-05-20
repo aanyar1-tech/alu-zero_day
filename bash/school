@@ -1,2 +1,2 @@
-bash test/intest
+#!/bin/bash
 echo "School"
